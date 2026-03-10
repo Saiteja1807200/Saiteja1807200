@@ -11,9 +11,9 @@
   <h3 align="center">Full-Stack Developer ✦ ML Enthusiast ✦ Builder</h3>
 </p>
 
-<p align="center">
+<h2 align="center">
 🎓 MCA Student | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
-</p>
+</h2>
 
 <p align="center">
 Vaageshwari College of Engineering,Karimnagar  
