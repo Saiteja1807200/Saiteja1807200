@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Application+Builder;Machine+Learning+Engineer;Backend+Systems+Developer">
 </p>
 <hr>
-<h2>align="center"💫 About Me:</h2>
+<h2align="center"💫 About Me:</h2>
 Full-stack developer with a strong foundation in Python, JavaScript, and backend systems, currently pursuing an MCA. Experienced in building web applications using React, Node.js, and REST APIs, along with developing machine learning models for practical problem solving. Interested in applying machine learning within full-stack applications and building data-driven systems. Actively seeking opportunities in full-stack development and machine learning where I can contribute to real-world products and continue improving my engineering skills.
 <hr>
 
-<h2> align ="center"🌐 Socials:</h2>
+<h2> align ="center">🌐 Socials:</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saitejaaa_1807) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saiteja-akinepelli) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IntrovertAF_03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saitejaakinepelli@gmail.com) 
 <hr>
 <h2>align="center"💻 Tech Stack:</h2>
