@@ -46,13 +46,15 @@ Full-stack developer with a strong foundation in Python, JavaScript, and backend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/HTML-F7931E?style=for-the-badge&logo=scikit-learn">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=express">
+<img src="https://img.shields.io/badge/Matplotlib-4EA94B?style=for-the-badge&logo=mongodb">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow">
+<img src="https://img.shields.io/badge/Numpy-F7931E?style=for-the-badge&logo=scikit-learn">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn">
 </p>
 
