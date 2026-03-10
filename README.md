@@ -1,8 +1,32 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saiteja1807200/Saiteja1807200/main/banner1.png" width="100%">
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Saiteja1807200&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/Saiteja1807200?label=FOLLOWERS&style=for-the-badge&color=8A2BE2">
+</p>
 
-<h1 align="center">Sai Teja</h1>
+<p align="center">
+  <h1 align="center">Sai Teja Akinepelli</h1>
+  <h3 align="center">Full-Stack Developer ✦ ML Enthusiast ✦ Builder</h3>
+</p>
+
+<p align="center">
+🎓 MCA Student | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
+</p>
+
+<p align="center">
+Vaageshwari College of Engineering,Karimnagar  
+Master of Computer Applications (2023–2026)
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Saiteja1807200&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/Saiteja1807200?label=FOLLOWERS&style=for-the-badge&color=8A2BE2">
+</p>
+
+<hr>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Application+Builder;Machine+Learning+Engineer;Backend+Systems+Developer">
