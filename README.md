@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saiteja1807200/main/banner1.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Saiteja1807200/Saiteja1807200/main/banner1.png" width="100%">
 </p>
 
 <h1 align="center">Sai Teja</h1>
