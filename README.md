@@ -84,8 +84,10 @@ Full-stack developer with a strong foundation in Python, JavaScript, and backend
 <h2 align="center">🔝 Top Contributed Repo</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Saiteja1807200&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<hr>
 
-## visit count
-[![](https://visitcount.itsvg.in/api?id=Saiteja1807200&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Saiteja1807200/Saiteja1807200/output/github-contribution-grid-snake-dark.svg">
+</p>
