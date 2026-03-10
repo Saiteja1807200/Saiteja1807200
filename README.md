@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 Full-stack developer with a strong foundation in Python, JavaScript, and backend systems, currently pursuing an MCA. Experienced in building web applications using React, Node.js, and REST APIs, along with developing machine learning models for practical problem solving. Interested in applying machine learning within full-stack applications and building data-driven systems. Actively seeking opportunities in full-stack development and machine learning where I can contribute to real-world products and continue improving my engineering skills.
 
 
