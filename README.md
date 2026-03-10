@@ -1,13 +1,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saiteja1807200/Saiteja1807200/main/banner1.png" width="100%">
 </p>
+<br>
+<br>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Saiteja1807200&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/Saiteja1807200?label=FOLLOWERS&style=for-the-badge&color=8A2BE2">
 </p>
+<hr>
 
 <p align="center">
-  <h1 align="center">Sai Teja Akinepelli</h1>
+  <h1 align="center">Hai👋 This is Sai Teja Akinepelli</h1>
   <h3 align="center">Full-Stack Developer ✦ ML Enthusiast ✦ Builder</h3>
 </p>
 
@@ -19,12 +23,6 @@
 Vaageshwari College of Engineering,Karimnagar  
 Master of Computer Applications (2023–2026)
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Saiteja1807200&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/Saiteja1807200?label=FOLLOWERS&style=for-the-badge&color=8A2BE2">
-</p>
-
 <hr>
 
 
