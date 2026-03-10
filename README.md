@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saiteja1807200/main/banner1.png" width="100%">
+</p>
+
+<h1 align="center">Sai Teja</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Application+Builder;Machine+Learning+Engineer;Backend+Systems+Developer">
+</p>
+
 # 💫 About Me:
 Full-stack developer with a strong foundation in Python, JavaScript, and backend systems, currently pursuing an MCA. Experienced in building web applications using React, Node.js, and REST APIs, along with developing machine learning models for practical problem solving. Interested in applying machine learning within full-stack applications and building data-driven systems. Actively seeking opportunities in full-stack development and machine learning where I can contribute to real-world products and continue improving my engineering skills.
 
