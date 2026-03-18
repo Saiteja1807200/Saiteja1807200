@@ -21,7 +21,7 @@
 
 <p align="center">
 Vaageshwari College of Engineering,Karimnagar  
-Master of Computer Applications (2023–2026)
+Master of Computer Applications(MCA)
 </p>
 <hr>
 
